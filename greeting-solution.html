@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+    <title>JavaScript Greeting</title>
+</head>
+<body>
+
+    <h1>JavaScript Greeting</h1>
+
+    <script>
+
+    var now = new Date();
+
+    var day = now.getDay();
+    var hour = now.getHours();
+
+    document.write("<p>The current day is " + day + ".</p>");
+    document.write("<p>The current hour is " + hour + ".</p>");
+
+    if(day == 1)
+    {
+        document.write("<h2>Does someone have a case of the Mondays!</h2>");
+    }
+    else if(day == 5 && hour > 12)
+    {
+        document.write("<h2>TGIF!</h2>");
+    }
+    else if(day == 0 || day == 6)
+    {
+        document.write("<h2>Have a great weekend!</h2>");
+    }
+    else if(hour < 12)
+    {
+        document.write("<h2>Good morning!</h2>");
+    }
+    else
+    {
+        document.write("<h2>Good afternoon!</h2>");
+    }
+
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,41 @@
+
+<!doctype html>
+<html>
+<head>
+    <title>JavaScript If Statements</title>
+</head>
+<body>
+
+    <h1>JavaScript If Statements</h1>
+
+    <p>Enter some text:</p>
+
+    <input type="text" id="text">
+
+    <br>
+
+    <button id="check">Check</button>
+
+    <script>
+
+    var button = document.getElementById("check");
+
+    button.addEventListener("click", function(){
+
+        var textbox = document.getElementById("text");
+
+        if(textbox.value == "")
+        {
+            alert("The textbox is empty!");
+        }
+        else
+        {
+            alert("The textbox has a value");
+        }
+
+    });
+
+    </script>
+
+</body>
+</html>
