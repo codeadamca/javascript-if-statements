@@ -1,4 +1,4 @@
-# javascript-if-statements
+# A Basic Introduction to JavaScript and If Statements
 
 JavaScript `if` statements allow code to make decisions. A typical `if` statement has the following structure:
 
