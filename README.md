@@ -125,7 +125,7 @@ After the previous JavaScript add an `if` statement to display a greeting based 
 </table>
 
 > Full tutorial URL:
-> > https://codeadam.ca/learning/javascript-if-statements.html
+> https://codeadam.ca/learning/javascript-if-statements.html
 
 ***
 
