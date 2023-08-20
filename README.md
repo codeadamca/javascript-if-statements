@@ -124,7 +124,7 @@ After the previous JavaScript add an `if` statement to display a greeting based 
 <tr><td>Other afternoons</td><td>Good afternoon!</td></tr>
 </table>
 
-> Full tutorial URL:
+> Full tutorial URL:  
 > https://codeadam.ca/learning/javascript-if-statements.html
 
 ***
