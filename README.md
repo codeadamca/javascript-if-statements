@@ -124,11 +124,15 @@ After the previous JavaScript add an `if` statement to display a greeting based 
 <tr><td>Other afternoons</td><td>Good afternoon!</td></tr>
 </table>
 
-## Tutorial Requirements:
+> Full tutorial URL:
+> > https://codeadam.ca/learning/javascript-if-statements.html
 
-* [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
+***
 
-Full tutorial URL: https://codeadam.ca/learning/javascript-if-statements.html
+## Repo Resources
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [W3Schools - JavaScript](https://www.w3schools.com/js/)
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
